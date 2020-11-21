@@ -9,6 +9,10 @@ numero_extra = 33
 numero_extra_dos = 1223
 numero_extra_tres = 89
 
+nueva_list = [numero_extra, numero_extra_dos, numero_extra_tres]
+
+numeros = numeros + nueva_list
+
 numeros.append(numero_extra)
 print(numeros)
 
